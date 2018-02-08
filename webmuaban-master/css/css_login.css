@@ -1,0 +1,40 @@
+#login{
+    width: 20%;
+    height: 280px;
+    padding: 50px;
+    margin-left: 20%;
+    border: 1px solid #ccc;
+    float: left;
+}
+#sign_up{
+    width: 20%;
+    height: 280px;
+    padding: 50px;
+    border: 1px solid #ccc;
+    float: left;
+}
+form .txt {
+  display: inline-block;
+  padding: 8px 9px;
+  padding-right: 30px;
+  width: 100%;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  color: #000;
+  background-color: #f0f0f0;
+  background-position: 110% center;
+  background-repeat: no-repeat;
+  border: 1px solid #ccc;
+  margin-top: 3px;
+}
+.submit{
+    width: 80px;
+    height: 40px;
+    padding: 2px;
+    margin-top: 3px;
+    margin-left: 80px;
+}
+.dangnhap h4{
+    color: royalblue;
+}
