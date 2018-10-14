@@ -10,6 +10,6 @@ B3: Export database "webbanhang.sql" vào database vừa tạo
 
                         /* Xong phần database */
 			
-B4 : Nạp toàn bộ soure code , ở đây ta extract ra thư mục "webmuaban-master " sau đó đưa vào file "htdocs" trong thư mục /etc/lampp ( Ubuntu )
+B4 : Nạp toàn bộ soure code , ở đây ta extract ra thư mục "webmuaban-master " sau đó đưa vào file "htdocs" trong thư mục /opt/lampp ( Ubuntu )
 
 B5 : Mở trang web : "localhost/webmuaban-master" trên trình duyệt
